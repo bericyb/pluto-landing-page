@@ -7,12 +7,7 @@ const FooterCopyright = () => (
       ♥
     </span>{' '}
     by <a href="">Pluto</a>
-    {/*
-     * PLEASE READ THIS SECTION
-     * We'll really appreciate if you could have a link to our website
-     * The link doesn't need to appear on every pages, one link on one page is enough.
-     * Thank you for your support it'll mean a lot for us.
-     */}
+    <a href="https://github.com/bericyb/pluto-landing-page">Beric Bearnson</a>
     <style jsx>
       {`
         .footer-copyright :global(a) {
